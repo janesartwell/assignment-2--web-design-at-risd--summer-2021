@@ -1,9 +1,8 @@
 .smaller-text {
   font-size: 20px;
-  margin-top: -10px;
+  line-height: 1;
 }
 
-h1 {
 h1,
 h2,
 h3 {
@@ -13,13 +12,9 @@ h3 {
   margin: 1px;
 }
 
-/*h2 {
-  font: normal 400 20px 'Inter', sans-serif;
-  letter-spacing: 15px;
-  text-align: center;
-  margin-top: 5px;
+img {
+  display: block;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
 }
-
-main {
-  justify-content: center;
-}*/
