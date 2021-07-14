@@ -1,31 +1,35 @@
 .smaller-text {
   font-size: 20px;
-  line-height: 1;
   line-height: 20px;
   letter-spacing: 17px;
 }
 
 h1,
-h2,
-h3 {
+h2 {
   font: normal 400 50px 'Inter', sans-serif;
   letter-spacing: 9px;
   text-align: center;
-  margin: 1px;
   margin: 5px;
 }
 
-h3 {
+div {
   font: normal 400 15px 'Inter', sans-serif;
   letter-spacing: normal;
-  text-align: center;
 }
 
 img {
-  display: block;
-  width: 40%;
-  margin-left: auto;
-  margin-right: auto;
   border: 5px solid red;
-  background-color: red;
+}
+
+
+section {
+  font: normal 400 15px 'Inter', sans-serif;
+  text-align: justify;
+  text-align-last: left;
+  margin-top: 70px;
+  margin-left: 70px;
+}
+
+footer {
+  text-align: right;
 }
