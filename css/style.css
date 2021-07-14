@@ -1,6 +1,8 @@
 .smaller-text {
   font-size: 20px;
   line-height: 1;
+  line-height: 20px;
+  letter-spacing: 17px;
 }
 
 h1,
