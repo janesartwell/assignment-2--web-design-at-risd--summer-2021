@@ -10,6 +10,13 @@ h3 {
   letter-spacing: 9px;
   text-align: center;
   margin: 1px;
+  margin: 5px;
+}
+
+h3 {
+  font: normal 400 15px 'Inter', sans-serif;
+  letter-spacing: normal;
+  text-align: center;
 }
 
 img {
