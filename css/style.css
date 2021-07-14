@@ -21,6 +21,10 @@ img {
   border: 5px solid red;
 }
 
+ol {
+  margin-top: 70px;
+  font: normal 400 15px 'Inter', sans-serif;
+}
 
 section {
   font: normal 400 15px 'Inter', sans-serif;
